@@ -17,6 +17,7 @@ const config: ExpoConfig = {
   web: {
     favicon: "./assets/favicon.png",
   },
+  sdkVersion: "54.0.0",
   extra: {
     eas: {
       projectId: "18aef633-6b55-42b7-9682-b3c51b7833cd",
